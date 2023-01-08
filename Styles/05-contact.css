@@ -26,3 +26,7 @@ input {
 .contact-descr {
   margin-bottom: 20px;
 }
+
+.contact a {
+  text-decoration: none;
+}
